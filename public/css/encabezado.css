@@ -1,0 +1,92 @@
+.logo_umsa {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.logo_medicina {
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}
+
+.logo_umsaH {
+    position: absolute;
+    top: 30px;
+    left: 80px;
+}
+
+.logo_medicinaH {
+    position: absolute;
+    top: 40px;
+    right: 80px;
+}
+.encabezado1{
+position: absolute;
+top: 40px; 
+left: 100px; 
+right: 100px;
+text-align: center;
+font-size: 12px; /*Tamaño de texto*/
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+color:rgb(26, 35, 126);
+}
+
+.encabezado2{
+position: absolute;
+top: 75px; 
+left: 100px; 
+right: 100px;
+text-align: center;
+font-size: 10px; /*Tamaño de texto*/
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+color:rgb(26, 35, 126);
+}
+
+.encabezado3{
+position: absolute;
+top: 96px; 
+left: 100px; 
+right: 100px;
+text-align: center;
+font-size: 11px; /*Tamaño de texto*/
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+color:rgb(192, 57, 43 );
+}
+
+.encabezado4{
+position: absolute;
+top: 120px; 
+left: 100px; 
+right: 100px;
+text-align: center;
+font-size: 10px; /*Tamaño de texto*/
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+color:rgb(231, 76, 60 );
+}
+
+.encabezado5{
+    position: absolute;
+    top: 140px; 
+    left: 100px; 
+    right: 100px;
+    text-align: center;
+    font-size: 10px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(231, 76, 60 );
+}

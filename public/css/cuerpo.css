@@ -1,0 +1,54 @@
+.texto1{
+    position: absolute;
+    top: 400px; 
+    left: 100px; 
+    right: 100px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.3;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+
+.texto1H{
+    position: absolute;
+    top: 360px; 
+    left: 100px; 
+    right: 100px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.3;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+
+    .fecha {
+    position: absolute;
+    right:100px;
+    bottom:360px;
+    text-align: justify;
+    font-size: 20px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+}
+    .fechaH {
+    position: absolute;
+    right:100px;
+    bottom:280px;
+    text-align: justify;
+    font-size: 20px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+}

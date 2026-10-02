@@ -1,0 +1,86 @@
+.confiere{
+    position: absolute;
+    top: 180px; 
+    left: 100px; 
+    text-align: center;
+    font-size: 20px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+    .correlativo{
+    position: absolute;
+    top: 150px; 
+    right: 30px; 
+    text-align: center;
+    font-size: 15px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+    .correlativoH{
+    position: absolute;
+    top: 150px; 
+    right: 50px; 
+    text-align: center;
+    font-size: 15px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+    .certificado{
+    position: absolute;
+    top: 220px; 
+    left: 100px; 
+    right: 100px;
+    text-align: center;
+    font-size: 20px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+    .certificadoH{
+    position: absolute;
+    top: 200px; 
+    left: 100px; 
+    right: 100px;
+    text-align: center;
+    font-size: 20px; /*Tamaño de texto*/
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+    .nombre{
+    position: absolute;
+    top: 280px; 
+    left: 70px; 
+    right: 70px;
+    text-align: center;
+    font-size: 43px; /*Tamaño de texto*/
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
+    .nombreH{
+    position: absolute;
+    top: 260px; 
+    left: 70px; 
+    right: 70px;
+    text-align: center;
+    font-size: 43px; /*Tamaño de texto*/
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(23, 32, 42);
+    }
